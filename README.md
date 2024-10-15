@@ -1,23 +1,19 @@
-# Vervathon-2023
+# Vervathon-2024
 
-## Submission Instruction:
-  1. Fork this repository
-  2. Create a folder with your Team Name,Team leader name and your problem statement number
-  3. Upload all the code and necessary files in the created folder
-  4. Upload a **README.md** file in your folder with the below mentioned informations.
-  5. Generate a Pull Request with your Team Name. (Example: XYZ_Adhi_1)
 
-## README.md must consist of the following information:
-
-#### Team Name -
-#### Problem Statement - 
-#### Team Leader Email -
+#### Team Name - Team Inferno
+#### Problem Statement -  SMART FINANCE TRACKER AND VISUALIZATION DASHBOARD (DATA ANALYTICS)
+#### Team Leader Email -  sadhasivamarumugam.22ads@sonatech.ac.in
 
 ## A Brief of the Prototype:
-  This section must include prototype description
+The SMART Finance Tracker and Visualization Dashboard is an interactive tool designed to monitor and analyze financial data effortlessly. Using Python for data preprocessing and Power BI for transforming and visualizing the data, this dashboard brings clarity and insight into financial operations. It allows users to track economic output, manage expenses, and visualize key financial metrics dynamically. The blend of powerful data handling and intuitive visualization makes this dashboard a valuable asset for making informed financial decisions.
   
 ## Tech Stack: 
-   List Down all technologies used to Build the prototype
+Python: For data preprocessing and cleaning.
+Pandas: To manipulate and analyze data.
+NumPy: For numerical operations.
+Power BI: For data transformation and visualization.
+Power Query:  For data manipulation in Power BI.
   
 ## What I Learned:
-   Write about the biggest learning you had while developing the prototype
+Working on the SMART Finance Tracker and Visualization Dashboard was a great experience. The biggest takeaway was how well Python and Power BI work together. Python made data prep easy, and Power BI brought the data to life with cool visuals. I learned a lot about data analytics, from cleaning data to building interactive dashboards. It really showed me the value of using the right tools for the job.
